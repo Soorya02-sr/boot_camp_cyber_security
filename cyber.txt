@@ -1,0 +1,11 @@
+Enter the city name: palakkad
+----------------------------------------------------------
+Weather Stats for - PALAKKAD || 23 Jun 2021 | 12:14:38 PM
+----------------------------------------------------------
+Current temperature is:c33.03 deg C
+Current weather desc  : ([{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}], [0], ['description'])
+Current Humidity      : 73 %d
+Current wind speed    : 5.54 kmph
+
+check
+8scompleted at 5:44 PM
